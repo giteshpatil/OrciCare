@@ -1,0 +1,8 @@
+{
+    "name": "Orci Care",
+    "app_id": "com.orcicare",
+    "type": "ionic-angular",
+    "integrations": {
+        "cordova": {}
+    }
+}

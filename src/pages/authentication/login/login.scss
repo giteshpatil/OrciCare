@@ -1,0 +1,11 @@
+    page-login {}
+    
+    .clear_button_style {
+        height: 40px;
+        margin: 10px;
+        background: none;
+        border: 1px solid black;
+        position: relative;
+        border-radius: 5px;
+        color: color($colors, white);
+    }
